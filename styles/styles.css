@@ -1,0 +1,42 @@
+html {
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+    background-color: #CDCCFF
+}
+body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+h1 {
+    color: rgb(84, 45, 175);
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+}
+h2 {
+  color: red;
+  text-align: center;
+}
+h3 {
+    color: rgb(150, 0, 0);
+    text-align: center;
+}
+h4 {
+    color: rgb(59, 0, 0);
+    text-align: center;
+}
+p, li {
+    font-size: 22px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+  }
